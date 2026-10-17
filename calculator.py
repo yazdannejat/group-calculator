@@ -1,4 +1,4 @@
-CONTRIBUTORS = ["Akash", "Teammate Name"]
+CONTRIBUTORS = ["Yazden"]
 
 def add(a, b):
     return a + b
