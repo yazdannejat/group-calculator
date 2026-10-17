@@ -1,4 +1,4 @@
-CONTRIBUTORS = ["Yazden"]
+CONTRIBUTORS = ["Akash"]
 
 def add(a, b):
     return a + b
