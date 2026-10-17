@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-CONTRIBUTORS = ["Akash","krishna"]
-=======
-CONTRIBUTORS = ["Akash, yazden"]
->>>>>>> 57cc50861804fc1fd806b353744a9e0f16ffd20e
+CONTRIBUTORS = ["Akash","yazden"]
+
 
 def add(a, b):
     return a + b
