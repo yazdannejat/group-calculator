@@ -1,4 +1,4 @@
-CONTRIBUTORS = ["Your Name", "Teammate Name"]
+CONTRIBUTORS = ["Akash", "Teammate Name"]
 
 def add(a, b):
     return a + b
@@ -14,6 +14,10 @@ def divide(a, b):
         raise ValueError("Cannot divide by zero")
     return a / b
 
+def printMyname():
+    print("Akash")
+
 if __name__ == "__main__":
     print(f"Welcome to the Group Calculator!, written by {CONTRIBUTORS}")
     print(add(2, 2))
+    printMyname()
